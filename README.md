@@ -9,6 +9,9 @@
 
 ![arac](https://raw.githubusercontent.com/azerothcore/mod-arac/master/images/screen2.png)
 
+# Differences
+- Starting gear.
+- Trainers.
 
 # Usage
 
